@@ -9,15 +9,10 @@ The program will create a notepad document for you if you haven't created a quiz
  An example:
   
       What is 4 * 4?
- 
 	  16
-
 	  5
-
 	  12
-
 	  8
-
 	  0
 
 ## Interval

@@ -7,12 +7,18 @@ I think this program shows very well that I could do object oriented programming
 The program will create a notepad document for you if you haven't created a quiz file already. The format is the question, newline, the correct answer, newline then three incorrect answers each on their own lines, followed by a new line with the number zero.
 
  An example:
-     What is 4 * 4?
-	 16
-	 5
-	 12
-	 8
-	 0
+  
+      What is 4 * 4?
+ 
+	  16
+
+	  5
+
+	  12
+
+	  8
+
+	  0
 
 ## Interval
 
